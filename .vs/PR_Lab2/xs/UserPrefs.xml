@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{C170D4A7-D1F6-457F-95E5-CECB00E20D63}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PR_Lab2/Program.cs">
+    <Files>
+      <File FileName="PR_Lab2/Program.cs" Line="14" Column="24" />
+      <File FileName="AddUniqueToList/AddUnique.cs" Line="2" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PR_Lab2" expanded="True" selected="True">
+            <Node name="AddUniqueToList" expanded="True" />
+            <Node name="PR_Lab2" expanded="True">
+              <Node name="References" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.PR__Lab2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

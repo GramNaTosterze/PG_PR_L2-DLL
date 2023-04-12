@@ -1,0 +1,9 @@
+/home/krzysiu/Projects/PR_Lab2/PR_Lab2/bin/Debug/PR_Lab2.exe
+/home/krzysiu/Projects/PR_Lab2/PR_Lab2/bin/Debug/PR_Lab2.pdb
+/home/krzysiu/Projects/PR_Lab2/PR_Lab2/bin/Debug/AddUniqueToList.dll
+/home/krzysiu/Projects/PR_Lab2/PR_Lab2/bin/Debug/AddUniqueToList.pdb
+/home/krzysiu/Projects/PR_Lab2/PR_Lab2/obj/x86/Debug/PR_Lab2.csproj.AssemblyReference.cache
+/home/krzysiu/Projects/PR_Lab2/PR_Lab2/obj/x86/Debug/PR_Lab2.csproj.CoreCompileInputs.cache
+/home/krzysiu/Projects/PR_Lab2/PR_Lab2/obj/x86/Debug/PR_Lab2.csproj.CopyComplete
+/home/krzysiu/Projects/PR_Lab2/PR_Lab2/obj/x86/Debug/PR_Lab2.exe
+/home/krzysiu/Projects/PR_Lab2/PR_Lab2/obj/x86/Debug/PR_Lab2.pdb

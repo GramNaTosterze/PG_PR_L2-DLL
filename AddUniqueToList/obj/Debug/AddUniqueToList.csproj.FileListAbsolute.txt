@@ -1,0 +1,6 @@
+/home/krzysiu/Projects/PR_Lab2/AddUniqueToList/bin/Debug/AddUniqueToList.dll
+/home/krzysiu/Projects/PR_Lab2/AddUniqueToList/bin/Debug/AddUniqueToList.pdb
+/home/krzysiu/Projects/PR_Lab2/AddUniqueToList/obj/Debug/AddUniqueToList.csproj.AssemblyReference.cache
+/home/krzysiu/Projects/PR_Lab2/AddUniqueToList/obj/Debug/AddUniqueToList.csproj.CoreCompileInputs.cache
+/home/krzysiu/Projects/PR_Lab2/AddUniqueToList/obj/Debug/AddUniqueToList.dll
+/home/krzysiu/Projects/PR_Lab2/AddUniqueToList/obj/Debug/AddUniqueToList.pdb
